@@ -1,3 +1,6 @@
+# Problem 2: Find the sum of even-valued fibonacci numbers that do not exceed
+# 4,000,000
+# Answer: 4613732
 
 total = 0
 
