@@ -1,12 +1,17 @@
-def fibonacci(n):
-    if n == 1 or n == 2:
-        return n
-    else:
-        return fibonacci(n-1)+fibonacci(n-2)
 
 total = 0
-i = 2
 
-while i < 4000000:
-    total += fibonacci(i)
-    i += 2
+
+front = 2
+mid = 3
+second = 5
+
+while front < 4000000:
+    if front % 2 == 0:
+        total += front
+    front = mid
+    temp = mid
+    mid = second
+    second = temp + second
+
+print(total)
