@@ -1,0 +1,8 @@
+sequence_id,game_id,period,play_clock,home_description,away_description,score,player1_id,player1_name,player1_team,player2_id,player2_name,player2_team,player3_id,player3_name,player3_team,event_type,event_description,possession,seconds_remaining,player1_lastname,player2_lastname,player3_lastname,score_difference,game_result,home_stars,away_stars,num_home_stars,num_away_stars,win_prob,Foul
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,0,29,,,,-1,1,[201566],[],1,1,0.999934621,Start
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,1,5,,,,-3,1,[201566],[],1,1,0.999934621,No
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,1,5,,,,-4,1,[201566],[],1,1,0.999934621,No
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,1,5,,,,-1,1,[201566],[],1,1,0.999934621,No
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,1,29,,,,-1,1,[201566],[],1,1,0.999934621,Yes
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,1,29,,,,-2,1,[201566],[],1,1,0.999934621,Yes
+202811,21600399,4,12:00,,,69 - 89,0,,None,0,,None,0,,None,Start Period ,,1,29,,,,-3,1,[201566],[],1,1,0.999934621,Yes
